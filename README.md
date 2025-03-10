@@ -1,2 +1,3 @@
-# CSC-315-Project
-Flutter|Dart
+# project
+
+A new Flutter project.
